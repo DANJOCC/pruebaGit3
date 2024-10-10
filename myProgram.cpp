@@ -2,7 +2,9 @@
 using namespace std;
 
 int main(){
+    int x =0;
     cout<<"Hello world in git"<<endl;
-    cout<<"new message"<<endl;
+    cin>>x;
+    cout<<"this is your number "<<x<<endl;
     return 0;
 }
