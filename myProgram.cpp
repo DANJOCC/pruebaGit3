@@ -2,6 +2,8 @@
 using namespace std;
 
 int main(){
-    cout<<"Hello world in git"<<endl;
+    int x =0;
+    cin>>x;
+    cout<<"this is your number "<<x<<endl;
     return 0;
 }
